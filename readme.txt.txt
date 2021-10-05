@@ -1,3 +1,6 @@
+description: this telegram bot does some operations like taking a screen shot of your pc, downloading files from your pc, open programs, open websites in you default browser, play sound (which you can develope it), shutting down and restart computer.
+programming language: Python
+
 1- : make a telegram bot with your disired name (t.me/botfather)
 2- : get the TOKEN and put the token in line 31 TOKEN variable 
 3- : put your telegram username in line 296 => admin variable in botmain() 
