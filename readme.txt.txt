@@ -8,13 +8,11 @@
 		pip install typing_extensions
 		pip install pillow
 
-5- : run the program in terminal through project directory
-e.g.  
-C:/Users/aref/AppData/Local/Programs/Python/Python39/python.exe "c:/Users/aref/Desktop/TELEGRAM BOT/OS-Remoter/bot.py"
+5- : run the program in terminal through project directory => python bot.py
 
-6- : start your telegram bot
+6- : start your telegram bot with /start
 
 
-
+VIDEO URL On Youtube : https://youtu.be/_pElRw7oqPI
 CODED BY: Aref Zangeneh & Ariyan Zarei
 Final project for CS50x Iran
